@@ -1,0 +1,136 @@
+/*title*/
+#title
+{
+background-color:#8236CB;
+}
+.coding-image
+{
+  width: 100%;
+  height: 40rem;
+}
+.navbar
+{
+  padding: 1% 7%;
+}
+.navbar-nav
+{
+  margin-left:auto;
+}
+.nav-item
+{
+  margin: 1rem;
+  font-size: 1.4rem;
+  color:white;
+}
+#nav-head, h1, h2, h4, h5
+{
+  font-family: Montserrat;
+  color:white;
+}
+.detail
+{
+  text-align: center;
+  position: relative;
+  bottom:30rem;
+  z-index: 1;
+  
+}
+.detail-text
+{
+ font-size: 4.5rem;
+font-family: 'Sacramento', cursive;
+color:#fff;
+font-weight: bold;
+}
+.texth5
+{
+  font-size: 2rem;
+  
+}
+.textp
+{
+  font-size: 1.5rem;
+  color:white;
+  font-weight: bold;
+}
+.photo
+{
+  text-align: center;
+  position: relative;
+  bottom: 6rem;
+}
+.my-img
+{
+  border-radius: 100%;
+  
+}
+.another-details
+{
+  padding: 0 15% ;
+  text-align: center;
+  position: relative;
+  bottom: 3rem;
+
+}
+.another-detail-text
+{
+  font-family: 'Roboto', sans-serif;
+  color:white;
+}
+
+/* About */
+.about
+{
+  background-color: #F7F6F2;
+}
+.inner-about
+{
+  padding-left:5%  
+  
+}
+#About
+{
+  color:#8236CB;
+  text-decoration: underline;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+#about-para
+{
+  line-height: 1.5;
+  font-size: 1.5rem;
+  padding-right:7%; 
+  font-family: 'Lora', serif;
+}
+.skills-div
+{
+  padding-left:5%
+}
+.table
+{
+  font-size: 1.5rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+#fotter
+{
+  background-color: #F7F6F2;  
+}
+.footer-detail
+{
+  padding: 7% 15%;
+
+}
+.msg
+{
+  text-align: center;
+ 
+}
+#message
+{
+  color:#8236CB;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  
+}
